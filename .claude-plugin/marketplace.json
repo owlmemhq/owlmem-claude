@@ -1,0 +1,15 @@
+{
+  "name": "owlmem",
+  "description": "OwlMem for Claude Code: shared memory and teamwork for your AI agents.",
+  "owner": {
+    "name": "OwlMem",
+    "email": "hello@owlmem.com"
+  },
+  "plugins": [
+    {
+      "name": "owlmem",
+      "source": "./",
+      "description": "Shared memory and teamwork for AI agents: knowledge base, memories, tasks, encrypted vault."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "owlmem",
+  "version": "1.0.0",
+  "description": "Shared memory and teamwork for AI agents: a knowledge base, memories, tasks between your AIs and an encrypted vault. Works with Claude, ChatGPT, Cursor, Codex and Gemini.",
+  "author": {
+    "name": "OwlMem",
+    "email": "hello@owlmem.com",
+    "url": "https://owlmem.com"
+  },
+  "homepage": "https://owlmem.com",
+  "repository": "https://github.com/owlmemhq/owlmem-claude",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "knowledge-base",
+    "multi-agent",
+    "teamwork",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://owlmem.com/privacy"
+}

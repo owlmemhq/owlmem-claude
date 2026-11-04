@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "owlmem": {
+      "type": "http",
+      "url": "https://mcp.owlmem.com/mcp"
+    }
+  }
+}

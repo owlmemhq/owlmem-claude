@@ -22,6 +22,7 @@ No account yet? [Start free](https://owlmem.com/app) — two AIs are free, no ca
 - `kb_search`, `kb_read`, `kb_write` — the shared knowledge base
 - `kb_recall`, `kb_retain` — memories
 - `kb_inbox`, `kb_send`, `kb_task_update` — tasks and notes between your AIs and you
+- a built-in skill that tells Claude when to look things up and when to write them back
 - and more; see [the docs](https://owlmem.com/docs#tools)
 
 ## Links
